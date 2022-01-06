@@ -2,13 +2,7 @@ CACHE MANIFEST
 
 CACHE: 
 app2usb.bin
-arabic-guy127.bin
-arabic-guy132.bin
-arabic-guy133.bin
 backup.bin
-BeefQueefMod-133.bin
-BeefQueefMod-134.bin
-BeefQueefMod-138.bin
 disable-aslr.bin
 disable-updates.bin
 dumper.bin
@@ -39,10 +33,6 @@ mira.js
 module-dumper.bin
 netcat.js
 Orbis-Toolbox-900.bin
-OystersMenu-100.bin
-OystersMenu-113.bin
-OystersMenu-119.bin
-OystersMenu-124.bin
 payload.html
 payload.js
 permanent-uart.bin
